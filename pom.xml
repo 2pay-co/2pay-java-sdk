@@ -53,13 +53,13 @@
         </license>
     </licenses>
     <scm>
-        <url>git@github.com:twopay/twopay-java-sdk.git</url>
-        <connection>scm:git:git@github.com:twopay/twopay-java-sdk.git</connection>
+        <url>git@github.com:2pay-co/2pay-java-sdk.git</url>
+        <connection>scm:git@github.com:2pay-co/2pay-java-sdk.git</connection>
     </scm>
     <developers>
         <developer>
-            <name>twopay</name>
-            <email>twopay@twopay.com</email>
+            <name>songqian</name>
+            <email>louis@hybriddb.co</email>
             <roles>
             	<role>Developer</role>
             </roles>
@@ -126,6 +126,7 @@
 					</plugin>
 				</plugins>
 			</build>
+
 			<distributionManagement>
 				<snapshotRepository>
 					<id>ossrh</id>
