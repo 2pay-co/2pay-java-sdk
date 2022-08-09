@@ -8,14 +8,6 @@
 - JAVA >= 1.8
 
 
-## Installation
-```maven
-<dependency>
-    <groupId>com.yuansfer</groupId>
-    <artifactId>yuansfer-payment</artifactId>
-    <version>1.0.0</version>
-</dependency>
-```
 
 ## Usage
 
