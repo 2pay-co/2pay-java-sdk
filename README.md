@@ -8,11 +8,6 @@
 - JAVA >= 1.8
 
 
-
-## Usage
-
-Please see [examples](https://github.com/yuansfer/yuansfer-java-sdk/tree/master/src/test/java)
-
 ### 1. Init
 ```java
 TwoPayConfig config = new TwoPayConfig();
